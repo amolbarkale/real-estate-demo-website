@@ -22,5 +22,8 @@
     "react-dom": "18.2.0",
     "react-horizontal-scrolling-menu": "^3.2.3",
     "react-icons": "^4.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
   }
 }
