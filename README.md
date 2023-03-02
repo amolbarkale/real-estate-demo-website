@@ -1,3 +1,7 @@
+## Live demo: https://real-estate-demo-chi.vercel.app/
+
+#next.js #frontend
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
